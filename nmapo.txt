@@ -1,0 +1,14 @@
+# Nmap 5.51 scan initiated Sun Jan  3 03:56:03 2016 as: nmap -oG nmapo.txt 192.168.30.*
+Host: 192.168.30.1 ()	Status: Up
+Host: 192.168.30.1 ()	Ports: 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 5357/open/tcp//wsdapi///, 9595/open/tcp//pds///	Ignored State: filtered (995)
+Host: 192.168.30.2 ()	Status: Up
+Host: 192.168.30.2 ()	Status: Up
+Host: 192.168.30.128 ()	Status: Up
+Host: 192.168.30.128 ()	Ports: 22/open/tcp//ssh///, 111/open/tcp//rpcbind///	Ignored State: closed (998)
+Host: 192.168.30.134 ()	Status: Up
+Host: 192.168.30.134 ()	Ports: 22/open/tcp//ssh///, 23/open/tcp//telnet///, 80/open/tcp//http///, 111/open/tcp//rpcbind///, 2049/open/tcp//nfs///	Ignored State: closed (995)
+Host: 192.168.30.139 ()	Status: Up
+Host: 192.168.30.139 ()	Ports: 22/open/tcp//ssh///, 23/open/tcp//telnet///, 111/open/tcp//rpcbind///, 2049/open/tcp//nfs///	Ignored State: closed (996)
+Host: 192.168.30.254 ()	Status: Up
+Host: 192.168.30.254 ()	Status: Up
+# Nmap done at Sun Jan  3 03:56:35 2016 -- 256 IP addresses (6 hosts up) scanned in 32.02 seconds
